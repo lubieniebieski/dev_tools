@@ -124,3 +124,10 @@ logs should be:
 #### `githubinator`
 * copy current line and shows a link to this line on github
 * [https://github.com/ehamiter/ST2-GitHubinator](https://github.com/ehamiter/ST2-GitHubinator)
+
+#### 'CTags'
+* let you quickly navigate to code definitons (classes, methods, etc.)
+* [https://github.com/SublimeText/CTags](https://github.com/SublimeText/CTags)
+
+### 'additional resources'
+* [http://blog.codeclimate.com/blog/2012/06/21/sublime-text-2-for-ruby/](Sublime configuration for Ruby developers)
