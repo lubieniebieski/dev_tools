@@ -128,6 +128,7 @@ logs should be:
 #### 'CTags'
 * let you quickly navigate to code definitons (classes, methods, etc.)
 * [https://github.com/SublimeText/CTags](https://github.com/SublimeText/CTags)
+* if you have sublime 3 - it's already there :)
 
 ### 'additional resources'
 * [http://blog.codeclimate.com/blog/2012/06/21/sublime-text-2-for-ruby/](Sublime configuration for Ruby developers)
