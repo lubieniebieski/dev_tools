@@ -105,6 +105,12 @@ logs should be:
 
 ## other useful tools
 
+### `annotate_models`
+
+  * [https://github.com/ctran/annotate_models](https://github.com/ctran/annotate_models)
+  * add a comment summarizing the current schema to the top or bottom of each of your model
+  * no need to open `schema.rb`
+
 ### `miniprofiler`
 
   * [http://miniprofiler.com/](http://miniprofiler.com/)
